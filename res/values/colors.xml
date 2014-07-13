@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="actionbar_background_start">#4D466E</color>
+    <color name="actionbar_background_end">#4D466E</color>
+    <color name="actionbar_textcolor">#FFFFFF</color>
+    <color name="text_hint">#B2AEAE</color>
+    <color name="carddemo_googlenowbirth_title">#0BBE0E</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClinicaApps</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pre_url_title">Url de Servidor</string>
+    <string name="pre_summary">Ingrese una dirección del servidor de la aplicación</string>
+    <string name="pre_url_dialog">Dirección del servidor</string>
+    <string name="pre_url">Ingrese url del Servidor</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="dialog_title">ConfigActivity</string>
+    <string name="razon_social">Razón Social</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Telefono</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="distrito">Distrito</string>
+    <string name="email">Correo Electronico</string>
+    <string name="web">Página Web</string>
+    <string name="facebook">Facebook</string>
+	<string name="twitter">Twitter</string>
+	<string name="search_title">Buscar Negocio</string>
+	<string name="refresh">Recargar</string>
+</resources>
